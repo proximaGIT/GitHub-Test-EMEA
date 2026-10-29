@@ -18,6 +18,6 @@ This is my first test contribution using:
 
 [Watch the video on YouTube](https://www.youtube.com/watch?v=O0wEzZvubfc)
 
-## Test
+## Test ----
 
 Hello GitHub! 👋
