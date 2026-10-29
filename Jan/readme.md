@@ -1,5 +1,3 @@
-Sure. Copy this directly into your readme.md:
-
 # Jan's GitHub Workshop Test
 
 This README file was created as part of the Git and GitHub Fundamentals workshop.
